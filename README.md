@@ -6,3 +6,5 @@
  My laptop
 
  Ren'py
+
+This is not hell and is a game
